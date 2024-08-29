@@ -55,6 +55,5 @@ This project focuses on optimizing supply chain management by leveraging Azure D
 
 This project demonstrates how Azure services can be effectively combined with machine learning techniques to optimize supply chain management. The insights derived from this project can lead to significant improvements in inventory management, cost savings, and overall supply chain efficiency.
 
----
-
-This README should give a comprehensive overview of your project and make it easy for others to understand and use your work.
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
