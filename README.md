@@ -1,5 +1,4 @@
 # supply-chain-optimization-with-azure-databricks-and-machine-learning
-# Supply Chain Optimization Using Azure Databricks and Inventory Prediction
 
 ## Project Summary
 
